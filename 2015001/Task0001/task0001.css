@@ -1,3 +1,7 @@
+body{
+    font-family: "微软雅黑";
+}
+
 h1{
     color: blue;
 }
@@ -16,4 +20,35 @@ img{
     border-style: solid;
     border-width: 2px;
     border-color: red;
+}
+
+#RedMiddle_1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+    height: 100px;
+    background-color: red;
+}
+
+#RedMiddle_2{
+    width: 980px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: red;
+}
+
+#RedMiddle_3{
+    width: 980px;
+    height: 100px;
+    perspective-origin: center;
+    background-color: red;
+}
+
+#RedMiddle_Text{
+    text-align: center;
+    background-color: transparent;
+}
+
+#RoundCornered{
+    
 }
